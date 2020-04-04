@@ -1,0 +1,71 @@
+Transformed Data
+10
+REDUCE_TIME_MILLIS=2479
+Reduce input records=536875
+Reduce output records=536875
+REDUCE_TIME_MILLIS=2419
+Reduce input records=536869
+Reduce output records=536869
+10
+REDUCE_TIME_MILLIS=4355
+Reduce input records=1073743
+Reduce output records=1073743
+REDUCE_TIME_MILLIS=4306
+Reduce input records=1073745
+Reduce output records=1073745
+10
+REDUCE_TIME_MILLIS=6271
+Reduce input records=1610614
+Reduce output records=1610614
+REDUCE_TIME_MILLIS=6069
+Reduce input records=1610618
+Reduce output records=1610618
+10
+REDUCE_TIME_MILLIS=8116
+Reduce input records=2147483
+Reduce output records=2147483
+REDUCE_TIME_MILLIS=7985
+Reduce input records=2147485
+Reduce output records=2147485
+10
+REDUCE_TIME_MILLIS=10722
+Reduce input records=2684354
+Reduce output records=2684354
+REDUCE_TIME_MILLIS=9906
+Reduce input records=2684358
+Reduce output records=2684358
+10
+REDUCE_TIME_MILLIS=11913
+Reduce input records=3221226
+Reduce output records=3221226
+REDUCE_TIME_MILLIS=11790
+Reduce input records=3221230
+Reduce output records=3221230
+10
+REDUCE_TIME_MILLIS=14634
+Reduce input records=3758094
+Reduce output records=3758094
+REDUCE_TIME_MILLIS=14479
+Reduce input records=3758098
+Reduce output records=3758098
+10
+REDUCE_TIME_MILLIS=15526
+Reduce input records=4294968
+Reduce output records=4294968
+REDUCE_TIME_MILLIS=15331
+Reduce input records=4294968
+Reduce output records=4294968
+10
+REDUCE_TIME_MILLIS=17652
+Reduce input records=4831841
+Reduce output records=4831841
+REDUCE_TIME_MILLIS=17387
+Reduce input records=4831839
+Reduce output records=4831839
+10
+REDUCE_TIME_MILLIS=23072
+Reduce input records=5368709
+Reduce output records=5368709
+REDUCE_TIME_MILLIS=23072
+Reduce input records=5368709
+Reduce output records=5368709

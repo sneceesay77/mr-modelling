@@ -1,0 +1,205 @@
+2018-11-22 10:02:27,854 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2018-11-22 10:02:29,025 INFO client.RMProxy: Connecting to ResourceManager at node1/192.168.0.1:8032
+2018-11-22 10:02:29,720 INFO mapreduce.JobResourceUploader: Disabling Erasure Coding for path: /tmp/hadoop-yarn/staging/sc306/.staging/job_1541788629025_0162
+2018-11-22 10:02:30,081 INFO input.FileInputFormat: Total input files to process : 1
+2018-11-22 10:02:30,150 INFO input.FileInputFormat: Total input files to process : 1
+2018-11-22 10:02:30,474 INFO mapreduce.JobSubmitter: number of splits:225
+2018-11-22 10:02:30,544 INFO Configuration.deprecation: yarn.resourcemanager.system-metrics-publisher.enabled is deprecated. Instead, use yarn.system-metrics-publisher.enabled
+2018-11-22 10:02:30,696 INFO mapreduce.JobSubmitter: Submitting tokens for job: job_1541788629025_0162
+2018-11-22 10:02:30,698 INFO mapreduce.JobSubmitter: Executing with tokens: []
+2018-11-22 10:02:30,964 INFO conf.Configuration: resource-types.xml not found
+2018-11-22 10:02:30,965 INFO resource.ResourceUtils: Unable to find 'resource-types.xml'.
+2018-11-22 10:02:31,038 INFO impl.YarnClientImpl: Submitted application application_1541788629025_0162
+2018-11-22 10:02:31,080 INFO mapreduce.Job: The url to track the job: http://node1:8088/proxy/application_1541788629025_0162/
+2018-11-22 10:02:31,080 INFO mapreduce.Job: Running job: job_1541788629025_0162
+2018-11-22 10:02:38,249 INFO mapreduce.Job: Job job_1541788629025_0162 running in uber mode : false
+2018-11-22 10:02:38,279 INFO mapreduce.Job:  map 0% reduce 0%
+2018-11-22 10:02:53,488 INFO mapreduce.Job:  map 1% reduce 0%
+2018-11-22 10:02:54,507 INFO mapreduce.Job:  map 3% reduce 0%
+2018-11-22 10:03:04,595 INFO mapreduce.Job:  map 4% reduce 0%
+2018-11-22 10:03:06,619 INFO mapreduce.Job:  map 5% reduce 0%
+2018-11-22 10:03:08,640 INFO mapreduce.Job:  map 6% reduce 0%
+2018-11-22 10:03:16,715 INFO mapreduce.Job:  map 7% reduce 0%
+2018-11-22 10:03:18,730 INFO mapreduce.Job:  map 8% reduce 0%
+2018-11-22 10:03:20,747 INFO mapreduce.Job:  map 9% reduce 0%
+2018-11-22 10:03:27,822 INFO mapreduce.Job:  map 10% reduce 0%
+2018-11-22 10:03:31,863 INFO mapreduce.Job:  map 11% reduce 0%
+2018-11-22 10:03:33,878 INFO mapreduce.Job:  map 12% reduce 0%
+2018-11-22 10:03:41,972 INFO mapreduce.Job:  map 13% reduce 0%
+2018-11-22 10:03:47,037 INFO mapreduce.Job:  map 14% reduce 0%
+2018-11-22 10:03:48,055 INFO mapreduce.Job:  map 15% reduce 0%
+2018-11-22 10:03:49,062 INFO mapreduce.Job:  map 16% reduce 0%
+2018-11-22 10:03:58,132 INFO mapreduce.Job:  map 17% reduce 0%
+2018-11-22 10:04:00,149 INFO mapreduce.Job:  map 18% reduce 0%
+2018-11-22 10:04:01,156 INFO mapreduce.Job:  map 19% reduce 0%
+2018-11-22 10:04:08,217 INFO mapreduce.Job:  map 20% reduce 0%
+2018-11-22 10:04:14,262 INFO mapreduce.Job:  map 21% reduce 0%
+2018-11-22 10:04:15,270 INFO mapreduce.Job:  map 22% reduce 0%
+2018-11-22 10:04:19,309 INFO mapreduce.Job:  map 23% reduce 0%
+2018-11-22 10:04:27,396 INFO mapreduce.Job:  map 24% reduce 0%
+2018-11-22 10:04:31,426 INFO mapreduce.Job:  map 24% reduce 3%
+2018-11-22 10:04:32,434 INFO mapreduce.Job:  map 25% reduce 3%
+2018-11-22 10:04:35,469 INFO mapreduce.Job:  map 26% reduce 3%
+2018-11-22 10:04:42,515 INFO mapreduce.Job:  map 27% reduce 3%
+2018-11-22 10:04:44,536 INFO mapreduce.Job:  map 28% reduce 3%
+2018-11-22 10:04:52,609 INFO mapreduce.Job:  map 29% reduce 3%
+2018-11-22 10:04:55,637 INFO mapreduce.Job:  map 29% reduce 4%
+2018-11-22 10:04:57,652 INFO mapreduce.Job:  map 30% reduce 4%
+2018-11-22 10:05:03,703 INFO mapreduce.Job:  map 31% reduce 4%
+2018-11-22 10:05:04,710 INFO mapreduce.Job:  map 32% reduce 4%
+2018-11-22 10:05:07,736 INFO mapreduce.Job:  map 32% reduce 5%
+2018-11-22 10:05:12,781 INFO mapreduce.Job:  map 33% reduce 5%
+2018-11-22 10:05:13,787 INFO mapreduce.Job:  map 33% reduce 6%
+2018-11-22 10:05:17,818 INFO mapreduce.Job:  map 34% reduce 6%
+2018-11-22 10:05:23,879 INFO mapreduce.Job:  map 35% reduce 6%
+2018-11-22 10:05:25,896 INFO mapreduce.Job:  map 36% reduce 6%
+2018-11-22 10:05:31,947 INFO mapreduce.Job:  map 36% reduce 7%
+2018-11-22 10:05:39,023 INFO mapreduce.Job:  map 37% reduce 7%
+2018-11-22 10:05:40,029 INFO mapreduce.Job:  map 38% reduce 7%
+2018-11-22 10:05:42,040 INFO mapreduce.Job:  map 39% reduce 7%
+2018-11-22 10:05:45,063 INFO mapreduce.Job:  map 39% reduce 8%
+2018-11-22 10:05:50,102 INFO mapreduce.Job:  map 40% reduce 8%
+2018-11-22 10:05:55,159 INFO mapreduce.Job:  map 41% reduce 8%
+2018-11-22 10:05:59,183 INFO mapreduce.Job:  map 42% reduce 8%
+2018-11-22 10:06:03,219 INFO mapreduce.Job:  map 42% reduce 9%
+2018-11-22 10:06:06,244 INFO mapreduce.Job:  map 43% reduce 9%
+2018-11-22 10:06:09,269 INFO mapreduce.Job:  map 43% reduce 10%
+2018-11-22 10:06:10,275 INFO mapreduce.Job:  map 44% reduce 10%
+2018-11-22 10:06:18,351 INFO mapreduce.Job:  map 45% reduce 10%
+2018-11-22 10:06:20,363 INFO mapreduce.Job:  map 46% reduce 10%
+2018-11-22 10:06:23,391 INFO mapreduce.Job:  map 47% reduce 10%
+2018-11-22 10:06:27,424 INFO mapreduce.Job:  map 47% reduce 11%
+2018-11-22 10:06:28,437 INFO mapreduce.Job:  map 48% reduce 11%
+2018-11-22 10:06:33,470 INFO mapreduce.Job:  map 48% reduce 12%
+2018-11-22 10:06:35,483 INFO mapreduce.Job:  map 49% reduce 12%
+2018-11-22 10:06:36,489 INFO mapreduce.Job:  map 50% reduce 12%
+2018-11-22 10:06:41,536 INFO mapreduce.Job:  map 51% reduce 12%
+2018-11-22 10:06:45,575 INFO mapreduce.Job:  map 51% reduce 13%
+2018-11-22 10:06:49,597 INFO mapreduce.Job:  map 52% reduce 13%
+2018-11-22 10:06:53,626 INFO mapreduce.Job:  map 53% reduce 13%
+2018-11-22 10:06:57,660 INFO mapreduce.Job:  map 54% reduce 13%
+2018-11-22 10:07:04,715 INFO mapreduce.Job:  map 55% reduce 13%
+2018-11-22 10:07:06,725 INFO mapreduce.Job:  map 56% reduce 13%
+2018-11-22 10:07:09,741 INFO mapreduce.Job:  map 56% reduce 15%
+2018-11-22 10:07:13,775 INFO mapreduce.Job:  map 57% reduce 15%
+2018-11-22 10:07:16,800 INFO mapreduce.Job:  map 58% reduce 15%
+2018-11-22 10:07:20,825 INFO mapreduce.Job:  map 59% reduce 15%
+2018-11-22 10:07:25,864 INFO mapreduce.Job:  map 60% reduce 15%
+2018-11-22 10:07:33,911 INFO mapreduce.Job:  map 61% reduce 15%
+2018-11-22 10:07:36,928 INFO mapreduce.Job:  map 62% reduce 15%
+2018-11-22 10:07:39,944 INFO mapreduce.Job:  map 63% reduce 16%
+2018-11-22 10:07:41,956 INFO mapreduce.Job:  map 64% reduce 16%
+2018-11-22 10:07:45,987 INFO mapreduce.Job:  map 64% reduce 17%
+2018-11-22 10:07:50,007 INFO mapreduce.Job:  map 65% reduce 17%
+2018-11-22 10:07:52,028 INFO mapreduce.Job:  map 65% reduce 18%
+2018-11-22 10:07:57,064 INFO mapreduce.Job:  map 66% reduce 18%
+2018-11-22 10:08:00,089 INFO mapreduce.Job:  map 67% reduce 18%
+2018-11-22 10:08:07,141 INFO mapreduce.Job:  map 68% reduce 18%
+2018-11-22 10:08:13,196 INFO mapreduce.Job:  map 69% reduce 18%
+2018-11-22 10:08:17,223 INFO mapreduce.Job:  map 70% reduce 19%
+2018-11-22 10:08:20,244 INFO mapreduce.Job:  map 71% reduce 19%
+2018-11-22 10:08:23,271 INFO mapreduce.Job:  map 71% reduce 20%
+2018-11-22 10:08:29,331 INFO mapreduce.Job:  map 71% reduce 21%
+2018-11-22 10:08:30,340 INFO mapreduce.Job:  map 72% reduce 21%
+2018-11-22 10:08:33,356 INFO mapreduce.Job:  map 73% reduce 21%
+2018-11-22 10:08:38,398 INFO mapreduce.Job:  map 74% reduce 21%
+2018-11-22 10:08:45,449 INFO mapreduce.Job:  map 75% reduce 21%
+2018-11-22 10:08:47,467 INFO mapreduce.Job:  map 76% reduce 21%
+2018-11-22 10:08:56,522 INFO mapreduce.Job:  map 77% reduce 21%
+2018-11-22 10:08:59,540 INFO mapreduce.Job:  map 78% reduce 22%
+2018-11-22 10:09:05,581 INFO mapreduce.Job:  map 78% reduce 23%
+2018-11-22 10:09:06,587 INFO mapreduce.Job:  map 79% reduce 23%
+2018-11-22 10:09:10,617 INFO mapreduce.Job:  map 80% reduce 23%
+2018-11-22 10:09:11,628 INFO mapreduce.Job:  map 80% reduce 24%
+2018-11-22 10:09:15,652 INFO mapreduce.Job:  map 81% reduce 24%
+2018-11-22 10:09:17,665 INFO mapreduce.Job:  map 81% reduce 25%
+2018-11-22 10:09:26,734 INFO mapreduce.Job:  map 82% reduce 25%
+2018-11-22 10:09:28,980 INFO mapreduce.Job:  map 83% reduce 25%
+2018-11-22 10:09:36,030 INFO mapreduce.Job:  map 83% reduce 26%
+2018-11-22 10:09:41,072 INFO mapreduce.Job:  map 84% reduce 26%
+2018-11-22 10:09:42,087 INFO mapreduce.Job:  map 84% reduce 27%
+2018-11-22 10:09:44,100 INFO mapreduce.Job:  map 85% reduce 27%
+2018-11-22 10:09:52,144 INFO mapreduce.Job:  map 86% reduce 27%
+2018-11-22 10:09:59,197 INFO mapreduce.Job:  map 87% reduce 27%
+2018-11-22 10:10:00,203 INFO mapreduce.Job:  map 87% reduce 28%
+2018-11-22 10:10:02,240 INFO mapreduce.Job:  map 88% reduce 28%
+2018-11-22 10:10:02,244 INFO mapreduce.Job: Task Id : attempt_1541788629025_0162_r_000000_0, Status : FAILED
+Error: org.apache.hadoop.mapreduce.task.reduce.Shuffle$ShuffleError: error in shuffle in InMemoryMerger - Thread to merge in-memory shuffled map-outputs
+	at org.apache.hadoop.mapreduce.task.reduce.Shuffle.run(Shuffle.java:134)
+	at org.apache.hadoop.mapred.ReduceTask.run(ReduceTask.java:383)
+	at org.apache.hadoop.mapred.YarnChild$2.run(YarnChild.java:174)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at javax.security.auth.Subject.doAs(Subject.java:422)
+	at org.apache.hadoop.security.UserGroupInformation.doAs(UserGroupInformation.java:1965)
+	at org.apache.hadoop.mapred.YarnChild.main(YarnChild.java:168)
+Caused by: org.apache.hadoop.util.DiskChecker$DiskErrorException: Could not find any valid local directory for output/attempt_1541788629025_0162_r_000000_0/map_197.out
+	at org.apache.hadoop.fs.LocalDirAllocator$AllocatorPerContext.getLocalPathForWrite(LocalDirAllocator.java:442)
+	at org.apache.hadoop.fs.LocalDirAllocator.getLocalPathForWrite(LocalDirAllocator.java:152)
+	at org.apache.hadoop.fs.LocalDirAllocator.getLocalPathForWrite(LocalDirAllocator.java:133)
+	at org.apache.hadoop.mapred.YarnOutputFiles.getInputFileForWrite(YarnOutputFiles.java:211)
+	at org.apache.hadoop.mapreduce.task.reduce.MergeManagerImpl$InMemoryMerger.merge(MergeManagerImpl.java:467)
+	at org.apache.hadoop.mapreduce.task.reduce.MergeThread.run(MergeThread.java:94)
+
+2018-11-22 10:10:03,358 INFO mapreduce.Job:  map 88% reduce 0%
+2018-11-22 10:10:13,422 INFO mapreduce.Job:  map 89% reduce 0%
+2018-11-22 10:10:15,439 INFO mapreduce.Job:  map 90% reduce 0%
+2018-11-22 10:10:19,479 INFO mapreduce.Job:  map 91% reduce 0%
+2018-11-22 10:10:24,531 INFO mapreduce.Job:  map 91% reduce 2%
+2018-11-22 10:10:28,560 INFO mapreduce.Job:  map 92% reduce 2%
+2018-11-22 10:10:30,570 INFO mapreduce.Job:  map 92% reduce 3%
+2018-11-22 10:10:34,602 INFO mapreduce.Job:  map 93% reduce 3%
+2018-11-22 10:10:39,632 INFO mapreduce.Job:  map 94% reduce 3%
+2018-11-22 10:10:45,664 INFO mapreduce.Job:  map 95% reduce 3%
+2018-11-22 10:10:49,684 INFO mapreduce.Job:  map 96% reduce 3%
+2018-11-22 10:10:54,717 INFO mapreduce.Job:  map 96% reduce 4%
+2018-11-22 10:10:59,753 INFO mapreduce.Job:  map 97% reduce 4%
+2018-11-22 10:11:00,759 INFO mapreduce.Job:  map 97% reduce 6%
+2018-11-22 10:11:05,784 INFO mapreduce.Job:  map 98% reduce 6%
+2018-11-22 10:11:10,815 INFO mapreduce.Job:  map 99% reduce 6%
+2018-11-22 10:11:18,883 INFO mapreduce.Job:  map 95% reduce 6%
+2018-11-22 10:11:24,923 INFO mapreduce.Job:  map 95% reduce 7%
+2018-11-22 10:11:31,968 INFO mapreduce.Job:  map 96% reduce 7%
+2018-11-22 10:11:33,981 INFO mapreduce.Job:  map 96% reduce 8%
+2018-11-22 10:11:37,002 INFO mapreduce.Job:  map 97% reduce 8%
+2018-11-22 10:11:43,032 INFO mapreduce.Job:  map 98% reduce 8%
+2018-11-22 10:11:51,092 INFO mapreduce.Job:  map 99% reduce 8%
+2018-11-22 10:11:54,116 INFO mapreduce.Job:  map 100% reduce 8%
+2018-11-22 10:12:04,169 INFO mapreduce.Job:  map 100% reduce 10%
+2018-11-22 10:12:10,198 INFO mapreduce.Job:  map 100% reduce 11%
+2018-11-22 10:12:34,317 INFO mapreduce.Job:  map 100% reduce 12%
+2018-11-22 10:12:40,343 INFO mapreduce.Job:  map 100% reduce 13%
+2018-11-22 10:12:58,450 INFO mapreduce.Job:  map 100% reduce 14%
+2018-11-22 10:13:04,500 INFO mapreduce.Job:  map 100% reduce 16%
+2018-11-22 10:13:28,627 INFO mapreduce.Job:  map 100% reduce 18%
+2018-11-22 10:13:58,777 INFO mapreduce.Job:  map 100% reduce 20%
+2018-11-22 10:14:28,934 INFO mapreduce.Job:  map 100% reduce 21%
+2018-11-22 10:14:34,965 INFO mapreduce.Job:  map 100% reduce 23%
+2018-11-22 10:14:55,077 INFO mapreduce.Job:  map 100% reduce 24%
+2018-11-22 10:15:01,105 INFO mapreduce.Job:  map 100% reduce 25%
+2018-11-22 10:15:17,192 INFO mapreduce.Job:  map 86% reduce 0%
+2018-11-22 10:15:31,283 INFO mapreduce.Job:  map 87% reduce 0%
+2018-11-22 10:15:33,294 INFO mapreduce.Job:  map 88% reduce 0%
+2018-11-22 10:15:45,358 INFO mapreduce.Job:  map 89% reduce 0%
+2018-11-22 10:15:47,369 INFO mapreduce.Job:  map 90% reduce 0%
+2018-11-22 10:15:53,404 INFO mapreduce.Job:  map 91% reduce 0%
+2018-11-22 10:15:58,435 INFO mapreduce.Job:  map 92% reduce 0%
+2018-11-22 10:16:03,466 INFO mapreduce.Job:  map 93% reduce 0%
+2018-11-22 10:16:11,523 INFO mapreduce.Job:  map 94% reduce 0%
+2018-11-22 10:16:17,575 INFO mapreduce.Job:  map 95% reduce 0%
+2018-11-22 10:16:23,614 INFO mapreduce.Job:  map 96% reduce 0%
+2018-11-22 10:16:26,631 INFO mapreduce.Job:  map 97% reduce 0%
+2018-11-22 10:16:35,689 INFO mapreduce.Job:  map 99% reduce 0%
+2018-11-22 10:16:42,750 INFO mapreduce.Job:  map 100% reduce 0%
+2018-11-22 10:16:51,800 INFO mapreduce.Job:  map 100% reduce 3%
+2018-11-22 10:17:21,976 INFO mapreduce.Job:  map 100% reduce 4%
+2018-11-22 10:17:43,075 INFO mapreduce.Job:  map 100% reduce 5%
+2018-11-22 10:18:01,162 INFO mapreduce.Job:  map 100% reduce 6%
+2018-11-22 10:18:09,199 INFO mapreduce.Job:  map 100% reduce 7%
+2018-11-22 10:18:23,268 INFO mapreduce.Job:  map 100% reduce 8%
+2018-11-22 10:33:13,358 INFO mapreduce.Job:  map 100% reduce 9%
+2018-11-22 10:33:25,420 INFO mapreduce.Job:  map 100% reduce 10%
+2018-11-22 10:33:31,459 INFO mapreduce.Job:  map 100% reduce 11%
+2018-11-22 10:34:01,601 INFO mapreduce.Job:  map 100% reduce 12%
+2018-11-22 10:34:13,657 INFO mapreduce.Job:  map 100% reduce 13%
+2018-11-22 10:34:38,767 INFO mapreduce.Job:  map 100% reduce 14%
+2018-11-22 10:35:13,914 INFO mapreduce.Job:  map 100% reduce 15%

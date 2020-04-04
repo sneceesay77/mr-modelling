@@ -1,0 +1,15 @@
+Algorithm,Predicted,Actual,Error,Pattern,MeanErr
+MMCont,604,703,14,Summerisation,5
+I-Index,352,377,7,Summerisation,3
+Avg,539,600,10,Summerisation,6
+Med&StD,591,730,19,Summerisation,3
+Grep,358,393,9,Filtering,4
+Top X,72,78,8,Filtering,2
+Distinct,564,578,2,Filtering,3
+Q&A,3873,4320,10,Data Organisation,44
+T-Order,233,206,-13,Data Organisation,12
+Anon&Shuf,178,209,15,Data Organisation,15
+Inner,2411,2745,12,Join,44
+Left,2559,2985,14,Join,52
+Right,2306,2550,10,Join,48
+Full,2539,2934,13,Join,39

@@ -1,0 +1,15 @@
+Algorithm,Predicted,Actual,Error,Pattern,MeanErr
+MMCnt,196,201,2.4875621891,Summerisation,5
+I-Index,118,117,-0.8547008547,Summerisation,3
+Avg,157,176,10.7954545455,Summerisation,6
+Med&StD,158,169,6.5088757396,Summerisation,3
+Grep,470,430,-9.3023255814,Filtering,4
+TopX,45,40,-12.5,Filtering,2
+Distinct,128,130,1.5384615385,Filtering,3
+Q&A,1653,2024,18.3300395257,Data Organisation,44
+T-Order,162,160,-1.25,Data Organisation,12
+Anon&Shuf,131,125,-4.8,Data Organisation,15
+Inner,975,1080,9.7222222222,Join,44
+Left,1410,1285,-9.7276264591,Join,52
+Right,1854,1920,3.4375,Join,48
+Full,900,960,6.25,Join,39
